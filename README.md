@@ -1,7 +1,3 @@
-Of course. A great README is essential for any professional project. It serves as a front door for new developers, a project report for stakeholders, and a reference for your future self.
-
-Here is a comprehensive, well-structured README file. You can copy and paste this directly into a README.md file in the root of your clusterfi project.
-
 ClusterFi - Decentralized Micro-Investment Platform
 
 ClusterFi is a full-stack Web3 application designed to democratize gold investment through a unique model of pooled funds, underwriter capital, and NFT-based ownership. This platform allows users to make small investments, which are grouped into larger "clusters," funded by micro-lenders, and tied to real-world assets or campaigns.
